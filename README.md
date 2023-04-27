@@ -1,6 +1,6 @@
 # TestsSample.Python.FastAPI
 
-Projeto para demonstração de Testes Unitários e de Integração utilizando FastAPI e pytest.
+Projeto para demonstração em Python de Testes Unitários e de Integração utilizando FastAPI e pytest.
 
 Referências
 
