@@ -4,7 +4,7 @@ Projeto para demonstração em Python de Testes Unitários e de Integração uti
 
 Referências
 
-https://realpython.com/api-integration-in-python/
+https://realpython.com/api-integration-in-python/#fastapi
 
 https://fastapi.tiangolo.com/
 
